@@ -2,7 +2,6 @@
 <h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | Building Real-World Impact</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushi-jaiswal902&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
