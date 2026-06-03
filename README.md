@@ -90,18 +90,3 @@
 | 🌐 Web3 Course Completed | — |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-jaiswal902&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-jaiswal902&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-jaiswal902&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">⭐ If you like my work, give my repos a star! Let's connect and build something amazing together 🚀</p>
