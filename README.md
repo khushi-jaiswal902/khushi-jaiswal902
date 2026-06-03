@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:khushi377689@gmail.com"><img src="https://img.shields.io/badge/Gmail-khushi377689-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/khushi-jaiswal902"><img src="https://img.shields.io/badge/GitHub-khushi--jaiswal902-181717?style=flat-square&logo=github"/></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/Fxwpz8Drlg/"><img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
